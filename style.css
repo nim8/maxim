@@ -71,7 +71,8 @@ header{
 	text-align:left;
 }
 .foto-profil{
-	margin-left:20%;
+	width:60%;
+	margin-left:40%;
 }
 /*Стили для основной части*/
 
@@ -126,8 +127,10 @@ header{
 }
 
 .osnov3{
+	width:100%;
 	float:left;
 	margin-bottom:15px;
+	text-align:center;
 }
 .osnov3-text{
 	font-size:2.5em;
@@ -157,10 +160,15 @@ header{
 	text-align:left;
 	color:#fff;
 }
-.google-play{
-	width:200px;
-	height:70px;
+.osnov-google{
+	width:100%;
 	float:left;
+	margin-bottom:10px;
+}
+.google-play{
+	width:180px;
+	height:70px;
+	text-align:center;
 }
 
 /*Стили для footer*/
@@ -181,7 +189,7 @@ footer a:hover{
 	margin-bottom:20px;
 	margin-top:10px;
 	float:left;
-	text-align:left;
+	text-align:center;
 }
 .footer-left{
 	width:50%;
@@ -215,6 +223,7 @@ footer a:hover{
 	text-align:left;
 	}
 	.foto-profil{
+	width:80%;
 	margin-left:10%;
 	}
 	.img1{
